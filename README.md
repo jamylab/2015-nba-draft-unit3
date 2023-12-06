@@ -1,14 +1,16 @@
-Height and Weight of 2015 NBA Draft Picks
-
-Unit 3 Project for English 105
-
-
-## **2015 NBA Draft Pick Statistics**
-In this data, I found information about each of the 2015 NBA Draft picks and their stats which you can find in the .csv file. 
+# **2015 NBA Draft Pick Statistics**
+**This repository was created for Prof. Gotzler's English 105 class in the fall semester of 2023 at the University of North Carolina at Chapel Hill.**
 
 
-## **Repository Data**
-In the repository data , I compiled a new subset of data that includes the weight,height, and name of the players. 
+## What does the repository provide?
+- The repository contains the raw set of data as well as a subset of that data that was created using Python3.
+- This reposotory also includes the Python Notebook containing details on how to create the subset of data using the original dataset. 
+
+## Why is the repository useful?
+- This repository can be used for public curiousity, rookie scouting, recruiters, and even determining the accuracy of a three point shot.
+  >- The statistics provided are used to determine/predict the skillset of a particular player or even the entire team.
+  >
+  >- The better a player's stats, the better their chances of getting drafted 
 
 
 ## **Repository Users**
