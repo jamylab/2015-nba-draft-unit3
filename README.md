@@ -16,4 +16,4 @@
 The data used in this repository is located here: [2015 NBA Draft Combine](https://data.world/achou/nba-draft-combine-measurements/workspace/file?filename=2015_nba_draft_combine.csv)
 > Users may be prompted to provide their email and create a password in order to access the data.
 As previously stated this repository was created for a class project and because the draft picks can not be changed at this point, there will be no updates to this repository. 
-
+> However if help is needed, you should contact [Github Support](https://support.github.com/).
